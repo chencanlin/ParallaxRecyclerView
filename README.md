@@ -4,7 +4,7 @@
 
 **效果展示：**
 
-![](https://i.imgur.com/jWFEdeU.gif)
+![](https://i.imgur.com/BLltjFk.gif)
 
 **卡片折叠效果**实际上是设置RecyclerView 的ItemDecoration 让每个条目的布局向上移
 
