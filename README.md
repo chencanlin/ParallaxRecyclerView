@@ -19,7 +19,7 @@
     }
 
 
-**层叠效果是利用CardView的阴影效果制造的假象** ，cardView.setCardElevation()设置可见条目的Elevation逐条增加就产生了这种效果
+**层叠效果是利用CardView的阴影效果制造的假象** ，cardView.setCardElevation()可见条目的Elevation逐条增加就产生了这种效果
 
 	for (int i = firstVisibleItemPosition; i <= lastVisibleItemPosition; i++) {
                         View view = linearLayoutManager.findViewByPosition(i);
